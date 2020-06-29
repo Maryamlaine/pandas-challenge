@@ -9,7 +9,8 @@
 * The other trend that we can look at is the top spenders. The players in this group bought 5 games and spent almost $19 on the games. 
 * Among the games purchased, the most popular items were Oathbreaker followed by Fiery glass crusader, Nirvana and Extraction.
 
-
+![videogames](Images/Purchasing_Analysis.png)
+![videogames](Images/Top_Spenders.png)
 ![videogames](Images/most_popular.png)
 
 
