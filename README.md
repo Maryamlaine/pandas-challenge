@@ -10,4 +10,6 @@
 * Among the games purchased, the most popular items were Oathbreaker followed by Fiery glass crusader, Nirvana and Extraction.
 
 
+![videogames](Images/most_popular.png)
+
 
